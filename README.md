@@ -1,5 +1,4 @@
-# test
-Laravel Testing
+# Laravel Testing
 
 Crear base de datos 'test'.
 
